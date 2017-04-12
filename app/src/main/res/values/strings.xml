@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">Timer</string>
+  <string name="not_set">Not started</string>
+  <string name="timer_seconds">%1$d seconds</string>
+  <string name="update">Update</string>
+  <string name="update_timer">Update the timer?</string>
+  <string name="use_button_to_update_timer">Use the button below to update the timer</string>
+</resources>
